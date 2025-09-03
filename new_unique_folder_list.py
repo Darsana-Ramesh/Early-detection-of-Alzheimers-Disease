@@ -1,3 +1,5 @@
+#To list the unique folders under each patient
+
 import os
 
 adni_root = "../data/shiji_mri_fmri_mci_adni_2/ADNI_Clean"
