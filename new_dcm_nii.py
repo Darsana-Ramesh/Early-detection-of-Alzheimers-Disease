@@ -1,3 +1,4 @@
+#dcm to nii concersion code
 import os
 import subprocess
 
