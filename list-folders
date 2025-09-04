@@ -6,3 +6,102 @@ MCI
    HighResHippo
    Sagittal_3D_FLAIR
 
+AD:
+   3_Plane_Localizer
+   Field_Mapping
+   HighResHippocampus
+   Sagittal_3D_FLAIR
+
+EMCI :
+   3_Plane_Localizer
+   Accelerated_Sagittal_MPRAGE
+   Axial_3D_PASL_Eyes_Open
+   Axial_3TE_T2_STAR
+   Field_Mapping
+   HighResHippocampus
+   Perfusion_Weighted
+   Sagittal_3D_FLAIR
+
+
+CN:
+   3TE_Axial_T2_Star
+   3_Plane_Localizer
+   AAHead_Scout
+   AAHead_Scout_MPR_sag
+   ASSET_Cal
+   Accelerated_Sag_IR-FSPGR
+   Accelerated_Sagittal_IR-FSPGR
+   Accelerated_Sagittal_MPRAGE
+   Accelerated_Sagittal_MPRAGE_ND
+   Ax_3D_pCASL_Eyes_Open
+   Ax_T2_STAR
+   Axial_2D_PASL
+   Axial_2D_PASL_EYES_OPEN
+   Axial_2D_PASL_straight_no_ASL
+   Axial_3D_PASL_Eyes_Open
+   Axial_3D_pCASL_Eyes_Open
+   Axial_3D_pCASL_Eyes_Open
+   Axial_3TE_T2_STAR
+   Axial_3TE_T2_Star
+   Axial_DTI
+   Axial_Field_Mapping
+   Axial_Field_Mapping_straight
+   Axial_MB_rsfMRI_Eyes_Open
+   Axial_T2_STAR
+   Axial_T2_Star
+   Axial_T2_Star_NO_ANGLE
+   Axial_T2_Star_straight
+   Axial_fcMRI_EYES_OPEN
+   Axial_fcMRI_Eyes_Open
+   Axial_rsfMRI_Eyes_Open
+   Cal_8HRBRAIN
+   Cal_Head_24
+   Cal_RM_8HRBRAIN
+   Calibration_Scan
+   Cerebral_Blood_Flow
+   Field_Mapping
+   Field_Mapping_AP_Phase
+   HighResHippo
+   HighResHippo_Scan_Oblique-_perpendicular_to_hippocampal_tail
+   HighResHippo_Scan_Oblique-perpendicular_to_hippocampal_tail
+   HighResHippocampus
+   HighResHippocampus_REPEAT
+   MRI_NOTE
+   MoCoSeries
+   ORIG_Accelerated_Sag_IR-FSPGR
+   ORIG_HighResHippo
+   ORIG_Sagittal_3D_FLAIR
+   Obl_HighResHippo
+   Perfusion_Weighted
+   Sag_Accel_IR-FSPGR
+   Sagittal_3D_Accelerated_MPRAGE
+   Sagittal_3D_FLAIR
+   localizer
+   relCBF
+   sPWI
+
+LMCI:
+   3_Plane_Localizer
+   Accelerated_Sag_IR-FSPGR
+   Accelerated_Sagittal_IR-FSPGR
+   Axial_2D_PASL
+   Axial_3D_PASL_Eyes_Open
+   Axial_3D_pCASL_Eyes_Open
+   Axial_Field_Mapping
+   Axial_T2_STAR
+   Axial_T2_STAR_rpt
+   Axial_T2_Star
+   Axial_rsfMRI_Eyes_Open
+   Cal_8HRBRAIN
+   Cal_Head_24
+   Calibration_Scan
+   Cerebral_Blood_Flow
+   Field_Mapping
+   HighResHippo
+   HighResHippo_Scan_Oblique-_perpendicular_to_hippocampal_tail
+   HighResHippo_Scan_Oblique-perpendicular_to_hippocampal_tail
+   HighResHippocampus
+   Perfusion_Weighted
+   SOURCE_-_Axial_2D_PASL
+   Sagittal_3D_FLAIR
+   Sagittal_3D_FLAIR_Repeat
