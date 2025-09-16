@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 import csv
 
-RAW_CLEAN_DIR = "../data/shiji_mri_fmri_mci_adni_2/ADNI_Clean"
+RAW_CLEAN_DIR = "../data/neurovista_mri_fmri_emci/ADNI_Clean"
 BIDS_DIR = "../data/ADNI_BIDS"
 os.makedirs(BIDS_DIR, exist_ok=True)
 
